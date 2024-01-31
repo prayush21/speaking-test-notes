@@ -5,7 +5,7 @@ import NoteCanvas from './components/NoteCanvas'
 function App() {
 
   return (
-    <div className='main'>
+    <div className='main p-10'>
       <NoteCanvas />
     </div>
   )
